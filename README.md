@@ -9,7 +9,7 @@
 ##application description:
 ทำเกี่ยวกับการค้นหาอุปกรณ์ictต่างๆ
 
-##preesentation:
+##preesentation:-
 
-##video:
+##video:-
 
