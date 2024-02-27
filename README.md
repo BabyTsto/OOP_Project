@@ -1,15 +1,15 @@
 # OOP_Project
 
-#Pop ict:
+# Pop ict:
 *id:66114540517
 *name:phakphum yimgothak
 
-#technology:[streamlit]
+# technology:[streamlit]
 
-#application description:
+# application description:
 ทำเกี่ยวกับการค้นหาอุปกรณ์ictต่างๆ
 
-#preesentation:-
+# preesentation:-
 
-#video:-
-
+# video:-
+ 
